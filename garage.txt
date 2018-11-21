@@ -1,0 +1,46 @@
+*****************************
+*   Garage OpenClassrooms   *
+*****************************
+
+Nom : Lagouna
+Moteur : ESSENCE
+Cylindre : 150 Chevaux
+Prix : 10256.0
+Option(s) : [GPS ; Siege chauffant ; Vitre électrique]
+
+Nom : A300B
+Moteur : ELECTRIQUE
+Cylindre : 1500 W
+Prix : 1234.0
+Option(s) : [Climatisation ; Barre de toit ; Siege chauffant]
+
+Nom : D4
+Moteur : DIESEL
+Cylindre : 200 Hdi
+Prix : 25684.8
+Option(s) : [Barre de toit ; Climatisation ; GPS]
+
+Nom : Lagouna
+Moteur : DIESEL
+Cylindre : 500 Hdi
+Prix : 456987.0
+Option(s) : []
+
+Nom : A300B
+Moteur : HYBRIDE
+Cylindre : ESSENCE/Electrique
+Prix : 12345.95
+Option(s) : [Vitre électrique ; Barre de toit]
+
+Nom : D4
+Moteur : ELECTRIQUE
+Cylindre : 100 KW
+Prix : 1224.0
+Option(s) : [Siege chauffant ; Barre de toit ; Climatisation ; GPS ; Vitre électrique]
+
+Nom : D4
+Moteur : HYBRIDE
+Cylindre : 150 KW/ESSENCE
+Prix : 25000.0
+Option(s) : [Siege chauffant ; Climatisation ; GPS ; Vitre électrique]
+
